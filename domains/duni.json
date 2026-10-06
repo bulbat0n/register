@@ -3,9 +3,6 @@
         "username": "bulbat0n"
     },
     "records": {
-        "NS": [
-            "beth.ns.cloudflare.com",
-            "ishaan.ns.cloudflare.com"
-        ]
+        "CNAME": "figura-unchained.alwaysdata.net"
     }
 }
